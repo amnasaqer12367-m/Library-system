@@ -1,0 +1,50 @@
+1,To Kill a Mockingbird,Harper Lee,Fiction,1960,9780061120084
+2,1984,George Orwell,Dystopian,1949,9780451524935
+3,The Great Gatsby,F. Scott Fitzgerald,Fiction,1925,9780743273565
+4,Pride and Prejudice,Jane Austen,Romance,1813,9780141439518
+5,The Hobbit,J.R.R. Tolkien,Fantasy,1937,9780547928227
+6,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy,1997,9780590353427
+7,The Catcher in the Rye,J.D. Salinger,Fiction,1951,9780316769488
+8,The Da Vinci Code,Dan Brown,Thriller,2003,9780307474278
+9,The Alchemist,Paulo Coelho,Fiction,1988,9780061122415
+10,The Lord of the Rings,J.R.R. Tolkien,Fantasy,1954,9780618640157
+11,Animal Farm,George Orwell,Satire,1945,9780451526342
+12,The Chronicles of Narnia,C.S. Lewis,Fantasy,1956,9780066238500
+13,Brave New World,Aldous Huxley,Dystopian,1932,9780060850524
+14,The Kite Runner,Khaled Hosseini,Fiction,2003,9781594631931
+15,The Hunger Games,Suzanne Collins,Science Fiction,2008,9780439023528
+16,Jane Eyre,Charlotte Bronte,Romance,1847,9780141441146
+17,Wuthering Heights,Emily Bronte,Romance,1847,9780141439556
+18,Moby Dick,Herman Melville,Adventure,1851,9780142437247
+19,War and Peace,Leo Tolstoy,Historical Fiction,1869,9780199232765
+20,Crime and Punishment,Fyodor Dostoevsky,Philosophical Fiction,1866,9780143058144
+21,The Fault in Our Stars,John Green,Young Adult,2012,9780525478812
+22,Dune,Frank Herbert,Science Fiction,1965,9780441172719
+23,The Shining,Stephen King,Horror,1977,9780307743657
+24,Dracula,Bram Stoker,Horror,1897,9780141439846
+25,Frankenstein,Mary Shelley,Horror,1818,9780141439471
+26,The Book Thief,Markus Zusak,Historical Fiction,2005,9780375842207
+27,Life of Pi,Yann Martel,Adventure,2001,9780156027328
+28,The Girl with the Dragon Tattoo,Stieg Larsson,Crime,2005,9780307454546
+29,Gone Girl,Gillian Flynn,Thriller,2012,9780307588371
+30,The Martian,Andy Weir,Science Fiction,2011,9780553418026
+31,The Road,Cormac McCarthy,Post-Apocalyptic,2006,9780307387899
+32,The Handmaid's Tale,Margaret Atwood,Dystopian,1985,9780385490818
+33,Ready Player One,Ernest Cline,Science Fiction,2011,9780307887443
+34,The Silent Patient,Alex Michaelides,Thriller,2019,9781250301697
+35,It,Stephen King,Horror,1986,9781501142970
+36,A Game of Thrones,George R.R. Martin,Fantasy,1996,9780553103540
+37,The Name of the Wind,Patrick Rothfuss,Fantasy,2007,9780756404741
+38,The Shadow of the Wind,Carlos Ruiz Zafon,Mystery,2001,9780143034902
+39,The Little Prince,Antoine de Saint-Exupery,Fable,1943,9780156012195
+40,Don Quixote,Miguel de Cervantes,Classic,1605,9780060934347
+41,Les Miserables,Victor Hugo,Historical Fiction,1862,9780451419439
+42,The Count of Monte Cristo,Alexandre Dumas,Adventure,1844,9780140449266
+43,Anna Karenina,Leo Tolstoy,Classic,1877,9780143035008
+44,The Picture of Dorian Gray,Oscar Wilde,Philosophical Fiction,1890,9780141439570
+45,The Old Man and the Sea,Ernest Hemingway,Fiction,1952,9780684801223
+46,The Sun Also Rises,Ernest Hemingway,Fiction,1926,9780743297332
+47,Slaughterhouse-Five,Kurt Vonnegut,Science Fiction,1969,9780440180296
+48,Fahrenheit 451,Ray Bradbury,Dystopian,1953,9781451673319
+49,The Giver,Lois Lowry,Dystopian,1993,9780544336261
+50,The Outsiders,S.E. Hinton,Young Adult,1967,9780142407332
